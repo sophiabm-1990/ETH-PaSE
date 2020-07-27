@@ -1,0 +1,19 @@
+h1{
+        color:brown;
+        text-align: center;
+        background-color: red;
+        background-image:  url("Images/hand-washing-step-.jpg");
+      }
+      #footer {
+        position: absolute;
+        text-align: center;
+        background-color: yellowgreen;
+        bottom: 0;
+        width: 100%;
+          height: 2.5rem;
+      }
+      body{
+        background-color: burlywood;
+        background-image: url("images/hand-washing-step-.jpg");
+      }
+    

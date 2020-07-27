@@ -1,0 +1,38 @@
+
+h1 {
+    color: white;
+    text-align: center;
+    background-color: red;
+    background-image:  url("paper.gif");
+  }
+ 
+  h2{
+      text-align: center;
+      color: red;
+  }
+  body{
+      background-color: powderblue;
+  }
+  h3{
+      text-align: left;
+      color: royalblue;
+  }
+
+  footer {
+      
+      text-align: center;
+      background-color: yellowgreen;
+      bottom: 0;
+      width: 100%;
+      height: 2.5rem;   
+  }
+  
+myHeader {
+  background-color: lightblue;
+  color:red ;
+  padding: 50px;
+  text-align: center;
+}
+nav {
+    
+}
